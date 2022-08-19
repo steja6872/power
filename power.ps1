@@ -1,1 +1,1 @@
-mkdir: power
+Get-Date
