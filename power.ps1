@@ -1,1 +1,1 @@
-hey hi hello
+mkdir: power
